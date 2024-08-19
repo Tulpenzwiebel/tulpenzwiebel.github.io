@@ -1,9 +1,9 @@
 ---
 title: "Tündern - Hameln - Hannover"
 categories:
-  - Fahrradreise
-tags:
   - Hannover-Graz 2024
+tags:
+  - Fahrradreise
 ---
 
 Nach einem schlichten Frühstück aus Gratis-Kaffee und zwei Müsliriegeln fuhr ich hinen nach Hameln zu goldenen Ratte und dem Rattenfängerbrunnen.
